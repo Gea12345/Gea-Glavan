@@ -92,8 +92,12 @@ img, video {
     text-decoration: underline;
 }
 
+@font-face {
+    font-family: "MyFont";
+    src: local("Font/geaglavan.ttf");
+}
+
 .myFont {
-    font-family: "geaglavan";
-    src:url("Font/geaglavan.ttf");
+    font-family: "MyFont";
     text-transform: uppercase;
 }
