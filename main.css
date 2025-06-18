@@ -93,11 +93,11 @@ img, video {
 }
 
 @font-face {
-    font-family: "MyFont";
+    font-family: "GeaFont";
     src: "Font/geaglavan.ttf";
 }
 
 .myFont {
-    font-family: "MyFont";
+    font-family: "GeaFont";
     text-transform: uppercase;
 }
