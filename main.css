@@ -94,7 +94,7 @@ img, video {
 
 @font-face {
     font-family: "MyFont";
-    src: local("Font/geaglavan.ttf");
+    src: "Font/geaglavan.ttf";
 }
 
 .myFont {
